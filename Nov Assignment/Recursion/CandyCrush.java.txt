@@ -1,0 +1,35 @@
+import java.io.*;
+import java.util.*; 
+import java.util.Scanner;
+class Main {
+	public static void main (String[] args) {
+
+		Scanner sc=new Scanner(System.in);
+		int Q=sc.nextInt();
+		for(int i=0;i<Q;i++){
+			long N=sc.nextLong();
+			long sum=0;
+			candyCrush(N,sum);
+			
+		}		
+	}
+	public static void candyCrush(long n,long sum){
+		if(n==0)
+		{
+			System.out.println(sum);
+			return;
+		}
+		long grp;
+		if(n%3==0)
+		{
+			grp=n/3;
+		}
+		else 
+		{
+			grp=(n/3)+1;
+		}
+  
+		sum+=grp*grp;
+		candyCrush(n-grp,sum);
+	}
+}

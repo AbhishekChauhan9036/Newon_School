@@ -1,0 +1,30 @@
+import java.io.*; 
+import java.util.*; 
+class Main {
+	private static int num_ways(int num,int nextNum,int left){
+		if(nextNum<=left)
+		return 0;
+		int count=0;
+
+		if(nextNum+left==num && nextNum>0){
+			count+=1+num_ways(num,num-left-1,left+1);
+			count+=num_ways(nextNum,nextNum-left-1,left+1);
+			return count;
+		}
+		return 0;
+	}
+	public static void main (String[] args) {
+		Scanner sc=new Scanner(System.in);
+		int t=sc.nextInt();
+		while(t-->0){
+			int n=sc.nextInt();
+			int x=num_ways(n,n,0);
+			if(x%2==1){
+				x=(x+1)/2;
+			}
+
+			System.out.println(x);
+		}
+		
+	}
+}

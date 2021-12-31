@@ -1,0 +1,9 @@
+#include <bits/stdc++.h> 
+using namespace std;
+int main() {
+	string s;
+	int r;
+	cin>>s>>r;
+	cout<<s<<" "<<r;
+	return 0;
+}

@@ -1,0 +1,55 @@
+import java.util.Scanner;
+class Main {
+	static int size = 26;
+	static boolean isLetter(char ch)
+	{
+		if (!Character.isLetter(ch))
+			return false;
+
+		return true;
+	}
+
+	static boolean allLetter(String str,
+							int len)
+	{
+		str = str.toLowerCase();
+
+
+		boolean[] present = new boolean[size];
+
+		for (int i = 0; i < len; i++) {
+
+
+			if (isLetter(str.charAt(i))) {
+
+				int letter = str.charAt(i) - 'a';
+				present[letter] = true;
+			}
+		}
+
+		for (int i = 0; i < size; i++) {
+
+			if (!present[i])
+				return false;
+		}
+		return true;
+	}
+
+	// This Code Contributed By Chauhan Abhishek
+	public static void main(String args[])
+	{
+		Scanner sc=new Scanner(System.in);
+		int n=sc.nextInt();
+		for(int i=0;i<n;i++){
+		String str = sc.next();
+		int len = str.length();
+
+
+		if (allLetter(str, len))
+			System.out.println(1);
+		else
+			System.out.println(0);
+		}
+
+	}
+}
