@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Implementing_Insertion_sort {
+public class Main{
        public static void InsertionSort(int arr[]) {
         // Time Complexity=o(n^2)
 		int n=arr.length;
@@ -20,7 +20,7 @@ public class Implementing_Insertion_sort {
 
     public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		int t=sc.nextInt();
+		int t=1;
 
 		for(int p=0;p<t;p++){
 			int n=sc.nextInt();

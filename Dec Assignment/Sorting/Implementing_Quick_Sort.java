@@ -1,4 +1,4 @@
-public class Implementing_Quick_Sort {
+
     public static int[] quickSort(int arr[], int l, int r){
         if (l >= r) return arr;
         int pivot = arr[r];
@@ -28,4 +28,4 @@ public class Implementing_Quick_Sort {
         arr[i] = arr[j];
         arr[j] = temp;
   }
-}
+

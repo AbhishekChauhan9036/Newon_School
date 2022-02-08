@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Implementing_Selection_Sort {
+public class Main {
        public static void SelectionSort(int arr[]) {
         // Time Complexity=o(n^2)
         for (int i = 0; i < arr.length - 1; i++) {
@@ -22,7 +22,7 @@ public class Implementing_Selection_Sort {
 
     public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		int t=sc.nextInt();
+		int t=1;
 
 		for(int p=0;p<t;p++){
 			int n=sc.nextInt();
