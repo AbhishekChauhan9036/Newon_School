@@ -1,3 +1,2 @@
-Searching - He has basic understanding of how searching techniques work and he was able to implement one of the searching algorithm that are there.
-
-Linked List - He know how a linked list work and how to do different operations in Linked List. He was able to implement problems based on this.
+Implement Binary Search - Implemented
+Create a linked list and print the linked list - Implemented
