@@ -1,3 +1,5 @@
+DSA-1->Medium Level
+
 Explain quick sort.
 Write the code for quicksort and explain its time complexity.
 Given an array of random integers, find the 2nd largest element in it.

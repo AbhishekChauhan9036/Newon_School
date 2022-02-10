@@ -1,3 +1,6 @@
+DSA-1->Easy Level
+
+
 discussed questions.
 1. Hello World 
 2. No. Of elements smaller than K in an array and optimisation

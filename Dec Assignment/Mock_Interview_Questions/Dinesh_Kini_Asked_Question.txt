@@ -1,3 +1,5 @@
+DSA-1->Medium Level
+
 public static void main(String args[]){  
 String s1="hello string";  
 s1.toUpperCase();  

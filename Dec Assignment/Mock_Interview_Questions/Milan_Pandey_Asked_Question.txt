@@ -1,3 +1,5 @@
+DSA -1->Hard Level
+
 Q1. Static keyword
 Q2. Stability on sorting algorithm
 Q3. Sort an array with only 0s and 1s
