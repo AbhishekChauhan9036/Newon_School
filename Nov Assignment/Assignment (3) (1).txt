@@ -1,0 +1,192 @@
+/*Fundamentals of Java - [Operators, Datatype]*/
+Start Coding    https://my.newtonschool.co/playground/code/j4oe6iwepcpz/
+Focal length of Spherical Mirror    https://my.newtonschool.co/playground/code/ckqd2ciczrka/
+Cuboid Perimeter        https://my.newtonschool.co/playground/code/8vu3qyc8ykr9/
+
+
+
+/*Fundamentals of Java - [Operators, Datatype] (post class)*/
+Simple Sum      https://my.newtonschool.co/playground/code/909415odihdv/
+Nobita and Profit       https://my.newtonschool.co/playground/code/2avtn4pqpabq/
+Shinchan and Kazama     https://my.newtonschool.co/playground/code/ihk2zp0u07p9/
+
+
+/*Control Structure and Loops (In Class)*/
+Basic Calculator        https://my.newtonschool.co/playground/code/6ey4cidpd9lo/
+Pattern Printing        https://my.newtonschool.co/playground/code/pe6np7otxykc/
+
+
+/*Loops*/
+Single Digit        https://my.newtonschool.co/playground/code/p3goglsiy93u/
+Armstrong Number        https://my.newtonschool.co/playground/code/h0gc5xpbdgu7/
+
+
+/*Functions*/
+Help Sherlock       https://my.newtonschool.co/playground/code/vgmnavfb95qh/
+Penny and Charity       https://my.newtonschool.co/playground/code/16amk5zaw0sw/
+The Rotation Policy     https://my.newtonschool.co/playground/code/t39m5n2re27k/
+Pokemon Master      https://my.newtonschool.co/playground/code/47krywpxeftr/
+
+
+
+/*Objected Oriented Programming*/
+Classes in Java     https://my.newtonschool.co/playground/code/y9a2ej7370yb/
+Classes & Objects Manipulation      https://my.newtonschool.co/playground/code/gfi7mp3lbng8/
+
+
+
+/*1-D Array*/
+Buildings       https://my.newtonschool.co/playground/code/ljaw6gpxuuzv/
+Sum and Mean        https://my.newtonschool.co/playground/code/uoftkj8tkngr/
+Alternate Sum product       https://my.newtonschool.co/playground/code/vcihe3gcnh0g/
+Is this repeated? (Contest)     https://my.newtonschool.co/playground/code/pezro68ush0t/
+Average me      https://my.newtonschool.co/playground/code/y5b93nnda1fu/
+Simple Arrangement      https://my.newtonschool.co/playground/code/tw3qzkiio5hm/
+Increasing array        https://my.newtonschool.co/playground/code/1yigjj91xs0b/
+Max numbers         https://my.newtonschool.co/playground/code/0kf6ihkjdq21/
+Replace element     https://my.newtonschool.co/playground/code/faot1chb58x8/
+
+
+/*2-D Matrix(Post Class)*/
+Good cells      https://my.newtonschool.co/playground/code/u5uqyaks1e76/
+A Boolean Matrix Problem        https://my.newtonschool.co/playground/code/gjesrny4liu4/
+Row with maximum 1's            https://my.newtonschool.co/playground/code/nqchzvb39az0/
+
+
+/*2D Arrays (In Class)*/
+Max sum column      https://my.newtonschool.co/playground/code/yl9d4zkdas2v/
+Diagonal Sum        https://my.newtonschool.co/playground/code/kd30a43ui0dp/
+
+
+/*Recursion(In Class)*/
+Tower of Hanoi      https://my.newtonschool.co/playground/code/glmw7if533r6/
+
+
+/*Recursion(Post Class)*/
+Candy Crush     https://my.newtonschool.co/playground/code/x2msz7libgtf/
+Number of ways      https://my.newtonschool.co/playground/code/xc1l2nopzetg/
+
+
+/*Strings Manipulation(In Class)*/
+Is palindrome?      https://my.newtonschool.co/playground/code/jhs3lypvrmp3/
+Odd characters      https://my.newtonschool.co/playground/code/5d9ag56jicvd/
+
+/*Sorting (In Class)*/
+Bubble Sort (descending order)	https://my.newtonschool.co/playground/code/ro7gglc29cu9/
+Implementing Selection Sort		https://my.newtonschool.co/playground/code/cr5d3n4e7gsg/
+Implementing Insertion sort		https://my.newtonschool.co/playground/code/olglwvuit69c/
+Implementing Merge Sort		https://my.newtonschool.co/playground/code/vy4s7xn6t2s6/
+Implementing Quick Sort		https://my.newtonschool.co/playground/code/vqqzjso4msg6/
+
+
+/*Sorting (Post Class)*/
+Sort 0's 1's and 2's			https://my.newtonschool.co/playground/code/jwrkxf245fs6/
+Shopping			https://my.newtonschool.co/playground/code/g6nf4lr42tx6/
+Maximum Force		https://my.newtonschool.co/playground/code/xh5jiypuebv2/
+Bubble Sort (descending order)	https://my.newtonschool.co/playground/code/qg3kgjpiicht/
+
+
+
+/*ArrayList and Linked List - 1 [Post Class]*/
+Delete the Kth node from the end	https://my.newtonschool.co/playground/code/hj1kg9c0besy/
+Print the Linked List			https://my.newtonschool.co/playground/code/uzb398tkv4ca/
+Intersection of two linked list		https://my.newtonschool.co/playground/code/bog7txming67/
+
+
+/*ArrayList and Linked List - 1 [In Class]*/
+Insert node at the given position	https://my.newtonschool.co/playground/code/olo7hpbb0amc/
+
+
+/*Strings [In Class]*/
+Longest Common Prefix in an Array	https://my.newtonschool.co/playground/code/kmh9sc89qlx8/
+Pangram Checking			https://my.newtonschool.co/playground/code/8bkaftr1ygvd/
+
+
+/*Strings Manipulation [Post Class]*/
+Palindrome		https://my.newtonschool.co/playground/code/bvwx1kplpuk5/
+String Sum		https://my.newtonschool.co/playground/code/ps3yv7lsu7dw/
+Reverse		https://my.newtonschool.co/playground/code/fcdy0806htrl/
+
+
+/*STL - 3 [ Lowerbound, Upperbound, Sort] - Post Class*/
+Mutating Array	https://my.newtonschool.co/playground/code/2sx60jx6gjw7/
+Shopping		https://my.newtonschool.co/playground/code/38hwu7srvxjn/
+Floor and Ceil	https://my.newtonschool.co/playground/code/6rf7hm0dgfoh/
+Smaller elements	https://my.newtonschool.co/playground/code/dwy32en1tuzf/
+
+
+/*STL [Vector, Set, Iterator]*/
+Pair Sum in vector		https://my.newtonschool.co/playground/code/jw2jlyw19ids/
+
+
+/*STL -2 [Map,Iterator] - Post Class*/
+Maximum subarray sum modulo M	https://my.newtonschool.co/playground/code/e6mcvdhkvbxv/
+Largest subarray with zero sum	https://my.newtonschool.co/playground/code/y5tkuaf7uhsd/
+Subarray with given sum		https://my.newtonschool.co/playground/code/w6uggnpi3shq/
+
+
+/*STL -2 [Map,Iterator]*/
+Max freq				https://my.newtonschool.co/playground/code/bspfdomkmi0e/
+Remove duplicates from array		https://my.newtonschool.co/playground/code/up57v0ed3i26/
+
+
+/*STL [Vector, Set, Iterator] - Post Class*/
+Pair Sum Existence-Revisited		https://my.newtonschool.co/playground/code/0ijyx2frccn2/
+Addition of Common Elements		https://my.newtonschool.co/playground/code/mw94tk5v5v5p/
+Bubble sort in pair array		https://my.newtonschool.co/playground/code/5ecvzdb93u34/
+
+
+
+/*Linked List - 2 [Post Class]*/
+Palindrome List                          https://my.newtonschool.co/playground/code/tcsgmqtpfkd2/
+Merge two sorted linked list	https://my.newtonschool.co/playground/code/bfw3pntb2z19/
+
+
+/*Linked List - 2 [In Class]*/
+Reversing the Linked List	https://my.newtonschool.co/playground/code/61cmkifs9bce/
+
+
+/*Linked List - 3 [In Class]*/
+Insertion in circular linked list		https://my.newtonschool.co/playground/code/ymq6w010pwpy/
+Insertion node at kth postition in doubly linked list		https://my.newtonschool.co/playground/code/r5bpkhdopjpy/
+
+
+/*Linked List - 3 [Post Class]*/
+Deletion in Doubly Linked List		https://my.newtonschool.co/playground/code/gkm0si78uhcl/
+Reversing a double linked list		https://my.newtonschool.co/playground/code/lf7380dvlss9/
+
+
+/*Stack [In Class]*/
+Array implementation of stack		https://my.newtonschool.co/playground/code/hm2w2ikpr7od/
+
+
+/*Stack [Post Class]*/
+Stack implemetation using linked list	https://my.newtonschool.co/playground/code/jsvsypt507mi/
+Stack operations			https://my.newtonschool.co/playground/code/q8b82spvc0og/
+
+/*Queue [In Class]*/
+array implementation of queue		https://my.newtonschool.co/playground/code/lrli8sd8g039/
+
+/*Queue [Post Class]*/
+operations on queue		https://my.newtonschool.co/playground/code/gad5by1cjo5m/
+Linked list implementation of queue	https://my.newtonschool.co/playground/code/2y0z310y5mr1/
+
+/*Applications of Stack [In class]*/
+Height Problem		https://my.newtonschool.co/playground/code/19k426tlxtgy/
+Infix to Postfix		https://my.newtonschool.co/playground/code/javqefp44nmx/
+
+/*Applications of Stack [Post Class]*/
+Greater is better		https://my.newtonschool.co/playground/code/f7syb6nve8s3/
+Stock Span Problem		https://my.newtonschool.co/playground/code/n5l76nteq5i9/
+Nearest Smaller Element	https://my.newtonschool.co/playground/code/1euqtz0nw68a/
+
+
+/*Applications of Queue [Post Class]*/
+Generate Binary Numbers		https://my.newtonschool.co/playground/code/3edgr80yosnk/
+Reverse First K elements of Queue	https://my.newtonschool.co/playground/code/m14rpboyzw4y/
+
+
+/*Applications of Queue [In Class]*/
+Operations on Deque		https://my.newtonschool.co/playground/code/90d9wqohmri9/
+Maximum of all subarrays of size K	https://my.newtonschool.co/playground/code/gb6gdyzfai65/
+
