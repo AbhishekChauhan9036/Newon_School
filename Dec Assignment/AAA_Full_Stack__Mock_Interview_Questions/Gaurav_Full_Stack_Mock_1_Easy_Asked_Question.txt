@@ -1,0 +1,8 @@
+Full Stack Mock ->  Easy Level
+
+
+
+Questions asked were - 
+1) Task to center align the 3 containers all to the each other.
+2) Pseudo elements and Pseudo classes 
+3) synthetic event'
