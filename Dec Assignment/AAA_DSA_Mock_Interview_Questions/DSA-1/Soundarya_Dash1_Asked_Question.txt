@@ -1,4 +1,4 @@
-DSA->Medium Level
+DSA 1->Medium Level
 
 
 1. given an array and a k, find the pairs which will add upto a given k
