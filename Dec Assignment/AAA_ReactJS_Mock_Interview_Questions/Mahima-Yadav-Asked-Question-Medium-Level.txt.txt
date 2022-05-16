@@ -1,3 +1,0 @@
-MOCK React-> Medium Level
-
-Implement api and show data on UI

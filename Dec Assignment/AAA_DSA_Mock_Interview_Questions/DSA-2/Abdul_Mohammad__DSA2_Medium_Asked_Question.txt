@@ -1,3 +1,0 @@
-DSA 2->Medium Level
-
-1. https://leetcode.com/problems/reorder-list/ -done

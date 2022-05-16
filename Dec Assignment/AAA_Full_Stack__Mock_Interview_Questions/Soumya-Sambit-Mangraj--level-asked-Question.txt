@@ -1,3 +1,0 @@
-Full Stack Mock -> Medium Level
-
-Implement a user register screen using HTML CSS JS

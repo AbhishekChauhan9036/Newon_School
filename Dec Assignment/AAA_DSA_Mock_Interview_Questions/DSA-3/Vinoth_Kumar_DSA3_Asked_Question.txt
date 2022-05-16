@@ -1,5 +1,0 @@
-DSA 3 -> Easy Level
-
-1) Generate all binary strings without consecutive 1’s
-2) Generate all possible sub arrays in an array.
-3) Check palindrome or not.
